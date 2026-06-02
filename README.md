@@ -176,6 +176,6 @@ Ovdje možete pratiti status dovršenosti vježbi:
 * **Python / C++** - za socket programiranje
 
 ---
-👤 **Autor:** *[Petra Jakopović / PetriciaLee]* 🎓 **Fakultet:** *[FOI (Faculty of Organization and Informatics]*
+👤 **Autor:** *[Petra Jakopović / PetriciaLee]* 🎓 **Fakultet:** *[FOI - Faculty of Organization and Informatics]*
 
 
