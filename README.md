@@ -176,6 +176,6 @@ Ovdje možete pratiti status dovršenosti vježbi:
 * **Python / C++** - za socket programiranje
 
 ---
-👤 **Autor:** *[Tvoje Ime i Prezime / GitHub Username]* 🎓 **Fakultet:** *[Ime tvog fakulteta, npr. FER, FESB, FOI, TVZ...]*
+👤 **Autor:** *[Petra Jakopović / PetriciaLee]* 🎓 **Fakultet:** *[FOI (Faculty of Organization and Informatics]*
 
 
