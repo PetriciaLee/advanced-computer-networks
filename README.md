@@ -9,7 +9,7 @@ This repository serves as a practical showcase of core networking concepts, rang
 
 # Napredne mreže računala - Laboratorijske vježbe
 
-Ovaj repozitorij sadrži laboratorijske vježbe iz kolegija **Napredne mreže računala**. Cilj vježbi je praktična primjena koncepata mrežnog programiranja, analize prometa, usmjeravanja i bežičnih mreža.
+Ovaj repozitorij sadrži laboratorijske vježbe iz kolegija *[ **Napredne mreže računala** ]*. Cilj vježbi je praktična primjena koncepata mrežnog programiranja, analize prometa, usmjeravanja i bežičnih mreža.
 
 ---
 
