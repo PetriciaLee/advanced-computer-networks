@@ -18,10 +18,10 @@ Ovaj repozitorij sadrži laboratorijske vježbe iz kolegija **Napredne mreže ra
 -  **Lab 1:** UDP Socket programiranje
 -  **Lab 2:** TCP Socket programiranje
 -  **Lab 3:** Wireshark: TLS i DTLS
--  **Lab 4:** Strujanje multimedije *[(Multimedia Streaming)]*
+-  **Lab 4:** Strujanje multimedije *(Multimedia Streaming)*
 -  **Lab 5:** RIP i osnove OSPF-a (IMUNES)
 -  **Lab 6:** Usmjeravanje u većim mrežama
--  **Lab 7:** IEEE 802.11 *[(Wireshark analiza)]*
+-  **Lab 7:** IEEE 802.11 *(Wireshark analiza)*
 
 ---
 
