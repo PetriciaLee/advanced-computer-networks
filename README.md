@@ -5,6 +5,8 @@ This repository serves as a practical showcase of core networking concepts, rang
 ---
 💡 *Note: This repository is intended for educational and professional demonstration purposes only.*
 
+  
+<font color="red">***© [2026] [Petra Jakopović]***</font>
 ---
 
 # Napredne mreže računala - Laboratorijske vježbe
