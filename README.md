@@ -30,13 +30,13 @@ Ovaj repozitorij sadrži laboratorijske vježbe iz kolegija *[ **Napredne mreže
 
 | Vježba | Naziv | Tehnologije / Alati | Link na kod/izvještaj |
 |--------|-------|---------------------|-----------------------|
-| **Lab 1** | UDP Socket | Python / C / C++ | [Pogledaj vježbu](./lab1-udp-socket) |
-| **Lab 2** | TCP Socket | Python / C / C++ | [Pogledaj vježbu](./lab2-tcp-socket) |
+| **Lab 1** | UDP Socket | Python / C / C++ | [Izvještaj_1](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvjestaj_1_i_2.pdf) |
+| **Lab 2** | TCP Socket | Python / C / C++ | [Izvještaj_2](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvjestaj_1_i_2.pdf) |
 | **Lab 3** | TLS & DTLS | Wireshark | [Izvještaj_3](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_3.pdf) |
 | **Lab 4** | Strujanje multimedije | RTP / RTSP / VLC | [Izvještaj_4](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_4.pdf) |
-| **Lab 5** | RIP & OSPF osnove | IMUNES / Cisco | [Pogledaj vježbu](./lab5-rip-ospf-imunes) |
-| **Lab 6** | Usmjeravanje u većim mrežama | OSPF / BGP | [Pogledaj vježbu](./lab6-large-scale-routing) |
-| **Lab 7** | IEEE 802.11 analiza | Wireshark / WLAN | [Pogledaj vježbu](./lab7-ieee-802.11-wireshark) |
+| **Lab 5** | RIP & OSPF osnove | IMUNES / Cisco | [Izvještaj_5](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_5.pdf)) |
+| **Lab 6** | Usmjeravanje u većim mrežama | OSPF / BGP | [Izvještaj_6](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_6.pdf) |
+| **Lab 7** | IEEE 802.11 analiza | Wireshark / WLAN | [Izvještaj_7](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_7.pdf) |
 
 ---
 
@@ -55,7 +55,6 @@ Ovaj repozitorij sadrži laboratorijske vježbe iz kolegija *[ **Napredne mreže
    * Implementacija pouzdane TCP veze između klijenta i poslužitelja uz upravljanje višenitnošću (multi-threading)
     * Razlika između TCP-a i UDP-a u praksi (three-way handshake).
     * Rad s "stream" podacima.
-* **Kako pokrenuti:** *[Napiši kratke upute]*
 
 ### 🔹 Lab 3: Wireshark - TLS i DTLS
 * **Kratki opis:**
