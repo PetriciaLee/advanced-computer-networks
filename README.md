@@ -34,7 +34,7 @@ Ovaj repozitorij sadrži laboratorijske vježbe iz kolegija *[ **Napredne mreže
 | **Lab 2** | TCP Socket | Python / C / C++ | [Izvještaj_2](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvjestaj_1_i_2.pdf) |
 | **Lab 3** | TLS & DTLS | Wireshark | [Izvještaj_3](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_3.pdf) |
 | **Lab 4** | Strujanje multimedije | RTP / RTSP / VLC | [Izvještaj_4](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_4.pdf) |
-| **Lab 5** | RIP & OSPF osnove | IMUNES / Cisco | [Izvještaj_5](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_5.pdf)) |
+| **Lab 5** | RIP & OSPF osnove | IMUNES / Cisco | [Izvještaj_5](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_5.pdf) |
 | **Lab 6** | Usmjeravanje u većim mrežama | OSPF / BGP | [Izvještaj_6](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_6.pdf) |
 | **Lab 7** | IEEE 802.11 analiza | Wireshark / WLAN | [Izvještaj_7](https://github.com/PetriciaLee/advanced-computer-networks/blob/main/Izvje%C5%A1taj_7.pdf) |
 
